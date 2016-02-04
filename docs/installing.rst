@@ -49,6 +49,7 @@ To run the tests, you'll also need to install:
 ::
 
  flake8
+ mock
  pandas
  pytest
  vincent
